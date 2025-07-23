@@ -1,0 +1,57 @@
+:root {
+  --color-1: #3e4a72;
+  --color-2: #7486c3;
+  --color-3: #ffffff;
+  --color-4: #b0b7ce;
+  --color-5: #c9cfe4;
+  --color-6: #e1e6ff;
+  --color-7: #e56a7c;
+  --color-8: #eaeeff;
+  --color-9: #8e94a8;
+  --color-10: #3E4A724D;
+  --color-11: #d9e2ff;
+  --color-12: #f9a826;
+  --color-13: #f6f7fb;
+  --color-14: #aeb3c5;
+  --color-15: #e6e8f0;
+  --color-16: #fff7eb;
+  --color-17: #ffe4e8;
+  --color-18: #4a5781;
+  --color-19: #EAEEFA;
+  --color-20: #5CD269;
+  --color-21: #4FAD7B;
+  --color-22: #F0FAEA;
+  --color-23: #F8F9FC;
+  --color-24: #E1E8FF;
+  --color-25: #F9CB26;
+}
+
+.dark {}
+
+@theme {
+  --color-text-1: var(--color-1);
+  --color-text-2: var(--color-2);
+  --color-text-3: var(--color-3);
+  --color-text-4: var(--color-4);
+  --color-text-5: var(--color-5);
+  --color-text-6: var(--color-6);
+  --color-text-7: var(--color-7);
+  --color-text-8: var(--color-8);
+  --color-text-9: var(--color-9);
+  --color-text-10: var(--color-10);
+  --color-text-11: var(--color-11);
+  --color-text-12: var(--color-12);
+  --color-text-13: var(--color-13);
+  --color-text-14: var(--color-14);
+  --color-text-15: var(--color-15);
+  --color-text-16: var(--color-16);
+  --color-text-17: var(--color-17);
+  --color-text-18: var(--color-18);
+  --color-text-19: var(--color-19);
+  --color-text-20: var(--color-20);
+  --color-text-21: var(--color-21);
+  --color-text-22: var(--color-22);
+  --color-text-23: var(--color-23);
+  --color-text-24: var(--color-24);
+  --color-text-25: var(--color-25);
+}
